@@ -26,7 +26,7 @@ const Hero = () => {
       className='text-[#6d96e3]'> Akshansh
       </span> </h1>
       <p>
-        I'm an avid web developer<br 
+        I'm an avid web developer <br 
           className="sm:block hidden"        /* wrong with this why not working */
         />
         constantly seeking to evolve through
@@ -43,7 +43,7 @@ const Hero = () => {
 
             <motion.div
               animate={{
-                y: [0, 24, 0],
+                y: [0, 28, 0],
               }}
               transition={{
                 duration: 1.5,
