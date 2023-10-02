@@ -130,7 +130,7 @@ import {
        
       ],
       image: musiclogo,
-      app_link: "https://651939d3fe7ae235ecf1d095--elaborate-biscotti-c1c7b9.netlify.app/",
+      app_link: "https://651a8fd58eed2f69490167ff--profound-longma-a3912b.netlify.app/",
       source_code_link: "https://github.com/Akshanshkaushal/React_music_player_app",
     },
 
