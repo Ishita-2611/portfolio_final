@@ -168,7 +168,7 @@ import {
        
       ],
       image: reactjs,
-      app_link: " ",
+      app_link: "https://github.com/",
       source_code_link: "https://github.com/",
     },
   
@@ -191,6 +191,7 @@ import {
         },
       ],
       image: redux,
+      app_link: "https://github.com/Akshanshkaushal/Quiz__interface",
       source_code_link: "https://github.com/Akshanshkaushal/Quiz__interface",
     },
   ];
