@@ -3,7 +3,7 @@ import { Html, useProgress } from "@react-three/drei";
 const CanvasLoader = () => {
   const { progress } = useProgress();
   return (
-    <Html
+    <Html  
       as='div'
       center
       style={{
@@ -22,7 +22,8 @@ const CanvasLoader = () => {
           marginTop: 40,
         }}
       >
-        {progress.toFixed(2)}%
+        {progress.toFixed(2)}%  
+        {/* fixing progress upto 2 decimals */}
       </p>
     </Html>
   );
