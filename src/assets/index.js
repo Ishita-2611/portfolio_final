@@ -28,6 +28,8 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import musiclogo from "./musi_logo.png"
 import webspy from "./webspy.png"
+
+import godyn from "./godyn.png"
 export {
   logo,
   backend,
@@ -55,5 +57,6 @@ export {
   jobit,
   tripguide,
   musiclogo,
-  webspy
+  webspy,
+  godyn
 };
