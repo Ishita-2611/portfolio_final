@@ -193,6 +193,7 @@ const projects = [
       },
     ],
     image: redux,
+    app_link:"https://github.com/Akshanshkaushal/Quiz__interface",
     source_code_link: "https://github.com/Akshanshkaushal/Quiz__interface",
   },
 ];
