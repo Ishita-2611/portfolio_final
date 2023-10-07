@@ -170,8 +170,8 @@ const projects = [
      
     ],
     image: reactjs,
-    app_link: " ",
-    source_code_link: "https://github.com/",
+    app_link: "https://6521b0e01c0751330862e408--fabulous-quokka-bc7f80.netlify.app/",
+    source_code_link: "https://github.com/Akshanshkaushal/notes_app",
   },
 
   {
