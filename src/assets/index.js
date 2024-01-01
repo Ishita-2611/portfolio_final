@@ -30,7 +30,9 @@ import musiclogo from "./musi_logo.png"
 import webspy from "./webspy.png"
 
 import godyn from "./godyn.png"
+import electro from "./spec_img.jpg"
 export {
+  electro,
   logo,
   backend,
   creator,

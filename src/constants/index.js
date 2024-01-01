@@ -18,6 +18,7 @@ import {
   threejs,
   musiclogo,
   godyn,
+  electro
 } from "../assets";
 
 export const navLinks = [
@@ -100,11 +101,23 @@ const experiences = [
     company_name: "Godynamic",
   icon:godyn,
   
-    date: "July 2023 - Present",
+    date: "Aug 2023 - Sep 2023",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
+    ],
+  },
+  {
+    title: "Executive Member",
+    company_name: "SPEC",
+  icon:electro,
+  
+    date: "Oct 2023 - Present",
+    points: [
+      "Developed and maintained websites using React.js, Tailwind CSS.",
+      "Enhanced UI/UX using animated libraries like Gsap, Framer-Motion, and integrated 3-D models using Three.js.",
+      "Organized various workshops related to the tech field including GitHub, WebD, and AI/ML."
     ],
   },
 ];
@@ -112,6 +125,32 @@ const experiences = [
 
 
 const projects = [
+  {
+    name: "Electrothon 6.O Website",
+    description:
+      "Electrothon, an exhilarating hackathon orchestrated by SPEC-NITH, drew over 500 participants, exemplifying a convergence of innovation and collaboration in the realm of technology.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Tailwindcss",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Js",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Three.js",
+        color: "red-text-gradient",
+      },
+    ],
+    image: electro,
+    app_link: "https://electrothon-6-gilt.vercel.app/",
+    source_code_link: "https://github.com/spec-nith/Electrothon-6",
+  },
   {
     name: "Music App",
     description:
@@ -135,7 +174,6 @@ const projects = [
     app_link: "https://651ad70fb992152f011f67b0--stirring-basbousa-2e4b97.netlify.app/",
     source_code_link: "https://github.com/Akshanshkaushal/React_music_player_app",
   },
-
   {
     name: "Memory Game",
     description:
