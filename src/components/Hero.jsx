@@ -26,13 +26,13 @@ const Hero = () => {
         <div className="w-full">
       <h1 className={`${styles.heroHeadText}
       text-white`}>Hi, I'm<span 
-      className='text-[#6d96e3]'> Akshansh
+      className='text-[#6d96e3]'> Ishita
       </span> </h1>
       <p>
-        I'm an avid web developer <br 
+      I'm a ML enthusiast and backend developer <br 
           className="sm:block hidden"        /* wrong with this why not working */
         />
-        constantly seeking to evolve through
+         constantly seeking to evolve through
          embracing new technologies and techniques.
       </p>
       <div>

@@ -41,9 +41,9 @@ const Contact = () => {
          templateId,
         {
           from_name: form.name,
-          to_name: "Akshansh_Kaushal",
+          to_name: "Ishita Khanudja",
           from_email: form.email,
-          to_email: "akshanshkaushal9@gmail.com",
+          to_email: "ishitakhanduja26@gmail.com",
           message: form.message,
         },
         userId
