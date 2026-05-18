@@ -29,7 +29,7 @@ const Hero = () => {
       className='text-[#6d96e3]'> Ishita
       </span> </h1>
       <p>
-      I'm a ML enthusiast and backend developer <br 
+      Full-Stack Developer · AI/ML Engineer · Problem Solver <br 
           className="sm:block hidden"        /* wrong with this why not working */
         />
          constantly seeking to evolve through
