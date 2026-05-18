@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "portfolio-final-app"
-  }
+    "default": "portfolio-final-app",
+    "y": "portfolio-final-2173a"
+  },
+  "targets": {},
+  "etags": {}
 }

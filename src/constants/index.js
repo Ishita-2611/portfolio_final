@@ -56,6 +56,10 @@ const services = [
     title: "Backend Developer",
     icon: backend,
   },
+  {
+    title: "Web Developer",
+    icon: web,
+  },
 ];
 
 const technologies = [
@@ -147,18 +151,6 @@ const experiences = [
     ],
   },
   {
-    title: "LinkedIn CoachIn Program 2025",
-    company_name: "LinkedIn",
-  icon:godyn,
-  
-    date: "March 2025- July 2025",
-    points: [
-      "Selected among the top 80 of 18,000+ applicants for the LinkedIn CoachIn Program 2025 as a Software Engineering Mentee.",
-"Underwent intensive mentorship covering DSA, system design, mock interviews, and career readiness from senior engineers at top tech companies.",
-"Built Career Pro — an AI-powered career guidance platform — as part of the program, securing a Top 5 rank at the cohort hackathon.",
-    ],
-  },
-  {
     title: "Developer Relations Lead",
     company_name: "TEAM SPEC",
   icon:godyn,
@@ -170,6 +162,19 @@ const experiences = [
 "Conducted workshops on machine learning to educate and engage participants, fostering interest and understanding in the field."
     ],
   },
+  {
+    title: "LinkedIn CoachIn Program 2025",
+    company_name: "LinkedIn",
+  icon:godyn,
+  
+    date: "March 2025- July 2025",
+    points: [
+      "Selected among the top 80 of 18,000+ applicants for the LinkedIn CoachIn Program 2025 as a Software Engineering Mentee.",
+"Underwent intensive mentorship covering DSA, system design, mock interviews, and career readiness from senior engineers at top tech companies.",
+"Built Career Pro — an AI-powered career guidance platform — as part of the program, securing a Top 5 rank at the cohort hackathon.",
+    ],
+  },
+  
 ];
 
 
@@ -198,7 +203,7 @@ const projects = [
       },
      
     ],
-    image: musiclogo,
+    image: career,
     // app_link: "https://651939d3fe7ae235ecf1d095--elaborate-biscotti-c1c7b9.netlify.app/",
     source_code_link: "https://github.com/Hasini0516/hackathon-team-project",
   },

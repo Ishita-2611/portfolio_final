@@ -9,6 +9,7 @@ import close from "./close.svg";
 import css from "./tech/css.png";
 import focker from "./tech/django.png";
 import expressjs from "./tech/expressjs.jpg";
+import career from "./career.jpeg";
 import git from "./tech/github.png";
 import figma from "./tech/figma.png";
 import html from "./tech/html.png";
