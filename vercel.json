@@ -1,7 +1,8 @@
 {
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
-  "env": {},
+  "framework": "vite",
+  "rewrites": [{ "source": "/(.*)", "destination": "/" }],
   "regions": ["sfo1"],
   "devCommand": "vite --host",
   "git": {
