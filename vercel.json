@@ -1,0 +1,10 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "env": {},
+  "regions": ["sfo1"],
+  "devCommand": "vite --host",
+  "git": {
+    "silent": true
+  }
+}
