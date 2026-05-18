@@ -97,27 +97,37 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Executive Member",
+    title: "Training and Placement Representative",
+    company_name: "NIT Hamirpur",
+  icon:godyn,
+  
+    date: "March 2026- Present",
+    points: [
+      "As T&P Representative, I sat at the intersection of industry and campus. I managed recruiter relations, coordinated placement logistics, and ran mock interview sessions — turning placement season from chaos into a structured, student-first process."
+    ],
+  },
+  {
+    title: "LinkedIn CoachIn Program 2025",
+    company_name: "LinkedIn",
+  icon:godyn,
+  
+    date: "March 2025- July 2025",
+    points: [
+      "Selected as a LinkedIn CoachIn for 2025, providing personalized career guidance and mentorship to aspiring professionals.",
+"Conducted one-on-one coaching sessions, offering tailored advice on resume building, interview preparation, and career development strategies.",
+"Received positive feedback from coachees, contributing to their career growth and success in securing job opportunities."
+    ],
+  },
+  {
+    title: "Developer Relations Lead",
     company_name: "TEAM SPEC",
   icon:godyn,
   
-    date: "August 2024-Present",
+    date: "August 2025 - March 2026",
     points: [
      "Developed and maintained the Electrothon website, ensuring a smooth and interactive user experience tailored to the event's needs.",
 "Worked on various technical projects, leveraging skills in development and problem-solving to deliver impactful solutions.",
 "Conducted workshops on machine learning to educate and engage participants, fostering interest and understanding in the field."
-    ],
-  },
-  {
-    title: "Volunteer",
-    company_name: "TEAM SPEC",
-  icon:godyn,
-  
-    date: "November 2023 - August 2024",
-    points: [
-     "Developed and maintained the Electrothon website, ensuring a smooth and interactive user experience tailored to the event's needs.",
-"Designed visually appealing posters and graphics to promote the Electrothon event, aligning with the event's branding.",
-"Anchored the Electrothon 6.0 event, powered by MLH, engaging the audience and ensuring a seamless flow of the program."
     ],
   },
 ];

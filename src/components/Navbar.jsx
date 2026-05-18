@@ -48,7 +48,7 @@ const Navbar = () => {
           <img src={logo} alt='logo' className='w-9 h-9 object-contain rounded-full' />
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
             Ishita Khanduja&nbsp;
-            <span className='sm:block hidden'> | Undergrad at NIT Hanirpur</span>
+            <span className='sm:block hidden'> | Undergrad at NIT Hamirpur</span>
           </p>
         </Link>
 

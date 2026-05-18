@@ -1,7 +1,7 @@
  import React from 'react';
 
 const ResumeButton = () => {
-  const resumeLink = 'https://drive.google.com/file/d/1-1Qsm8xbxOF7Sd5k8KSycXCos_ebmvSI/view?usp=sharing';
+  const resumeLink = 'https://drive.google.com/drive/folders/1YjjVG7vhHYcX25PL_8E60damtNEF-e8B';
 
   const handleButtonClick = () => {
      window.open(resumeLink, '_blank');

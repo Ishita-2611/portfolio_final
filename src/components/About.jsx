@@ -48,11 +48,7 @@ const About = () => {
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
        
-       I’m a tech enthusiast with a diverse skill set spanning machine learning, backend development, data structures and algorithms, and a touch of frontend work . I thrive on solving complex problems, building efficient systems, and delivering scalable solutions.<br></br>
-
-My work bridges functionality and design, allowing me to create seamless user experiences while maintaining robust, optimized backends. Whether it’s crafting ML models, writing clean backend logic, or diving into frontend frameworks, I’m always up for a challenge.<br></br>
-
-Beyond coding, I enjoy exploring innovative technologies and finding ways to blend creativity with technical precision. Let’s collaborate and bring great ideas to life!
+      I'm the kind of engineer who gets curious about why something breaks, not just that it breaks. I work across ML, backend, and frontend — not because I have to, but because the best solutions rarely live in just one layer. Complex problems are my favourite kind.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-24'>
