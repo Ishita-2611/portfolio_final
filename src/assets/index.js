@@ -33,6 +33,8 @@ import webspy from "./webspy.png"
 
 import godyn from "./spec.jpeg"
 import electro from "./spec_img.jpg"
+import sql from "./sql.jpg"
+import kafka from "./kafka.jpg"
 export {
   electro,
   logo,
@@ -43,7 +45,9 @@ export {
   github,
   menu,
   close,
-  css,  expressjs,
+  css,
+  expressjs,
+  focker,
   figma,
   git,
   html,
@@ -55,11 +59,12 @@ export {
   tailwind,
   typescript,
   threejs,
- 
   carrent,
   jobit,
   tripguide,
   musiclogo,
   webspy,
-  godyn
+  godyn,
+  sql,
+  kafka
 };

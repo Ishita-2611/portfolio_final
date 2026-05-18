@@ -16,7 +16,7 @@ import {
   git,
   focker,
   kafka,
-  sql,  
+  sql,
   jobit,
   tripguide,
   threejs,
