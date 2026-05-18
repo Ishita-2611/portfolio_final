@@ -4,13 +4,12 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "host": "vite --host"
+    "host": "vite --host",
+    "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "deploy": "npm run build && firebase deploy"
   },
   "dependencies": {
     "@emailjs/browser": "^3.12.1",
