@@ -149,9 +149,9 @@ const experiences = [
   
     date: "March 2025- July 2025",
     points: [
-      "Selected as a LinkedIn CoachIn for 2025, providing personalized career guidance and mentorship to aspiring professionals.",
-"Conducted one-on-one coaching sessions, offering tailored advice on resume building, interview preparation, and career development strategies.",
-"Received positive feedback from coachees, contributing to their career growth and success in securing job opportunities."
+      "Selected among the top 80 of 18,000+ applicants for the LinkedIn CoachIn Program 2025 as a Software Engineering Mentee.",
+"Underwent intensive mentorship covering DSA, system design, mock interviews, and career readiness from senior engineers at top tech companies.",
+"Built Career Pro — an AI-powered career guidance platform — as part of the program, securing a Top 5 rank at the cohort hackathon.",
     ],
   },
   {
@@ -171,6 +171,33 @@ const experiences = [
 
 
 const projects = [
+  {
+    name: "Career Pro",
+    description:
+      " AI driven career guidance platform that provides personalized recommendations and insights to help individuals make informed decisions about their career paths.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Backend",
+        color: "green-text-gradient",
+      },
+      {
+        name: "AI",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Machine Learning",
+        color: "blue-text-gradient",
+      },
+     
+    ],
+    image: musiclogo,
+    // app_link: "https://651939d3fe7ae235ecf1d095--elaborate-biscotti-c1c7b9.netlify.app/",
+    source_code_link: "https://github.com/Hasini0516/hackathon-team-project",
+  },
   {
     name: "Smart App & Smart Pen for SLD",
     description:
@@ -237,6 +264,30 @@ const projects = [
     app_link: "https://electrothon.nith.ac.in/",
     source_code_link: "https://github.com/spec-nith/Electrothon_7.0",
   },
+  {
+    name: "Comconnect",
+    description:
+      " Web-based communication platform that enables seamless interaction and collaboration among users, fostering connectivity and engagement in a digital environment.",
+    tags: [
+      {
+        name: "Node.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "WebSockets",
+        color: "green-text-gradient",
+      },
+      {
+        name: "React",
+        color: "pink-text-gradient",
+      },
+     
+    ],
+    image: godyn,
+    //app_link: "https://electrothon.nith.ac.in/",
+    source_code_link: "https://github.com/spec-nith/ComConnect",
+  },
+  
 
   // {
   //   name: "Memory Game",
