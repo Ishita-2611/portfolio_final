@@ -9,6 +9,7 @@ import {
   css,
   reactjs,
   expressjs,
+  career,
   redux,
   tailwind,
   nodejs,
